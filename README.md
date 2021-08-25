@@ -9,6 +9,7 @@ Com a utilização da ferramenta webdriver as informações são extraídas dire
 É feito um tratamento com essas informações para detecção de oportunidades
 </p>
 <img src="tabela_alerta.png"></img>
+
 ## Envio via Whatsapp 
 Quando detectado uma oportunidade de mercado é enviado um alerta via whatsapp.
 <img align="center" src="envio.png"></img>
