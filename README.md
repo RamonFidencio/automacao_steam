@@ -5,8 +5,10 @@ Com a utilização da ferramenta webdriver as informações são extraídas dire
 [CSGO Itens in to STEAM site](https://steamcommunity.com/market/search?appid=730) 
 <img align="center" src="tabela_itens.png"></img>
 ## Tratamento 
+<p  align="center">
 É feito um tratamento com essas informações para detecção de oportunidades
-<img align="center" src="tabela_alerta.png"></img>
+</p>
+<img src="tabela_alerta.png"></img>
 ## Envio via Whatsapp 
 Quando detectado uma oportunidade de mercado é enviado um alerta via whatsapp.
 <img align="center" src="envio.png"></img>
