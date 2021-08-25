@@ -5,7 +5,7 @@ Com a utilização da ferramenta webdriver as informações são extraídas dire
 [CSGO Itens in to STEAM site](https://steamcommunity.com/market/search?appid=730) 
 <img align="center" src="tabela_itens.png"></img>
 ## Tratamento 
-<p  align="center">
+<p >
 É feito um tratamento com essas informações para detecção de oportunidades
 </p>
 <img src="tabela_alerta.png"></img>
